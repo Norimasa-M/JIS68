@@ -18,5 +18,5 @@
 #
 ---
 include:
-  - board: nice_nano_v2
-    shield: masa61
+  - board: seeeduino_xiao_ble
+    shield: masa68
