@@ -18,5 +18,5 @@
 #
 ---
 include:
-  - board: seeduino_xiao_ble
+  - board: seeeduino_xiao_ble
     shield: masa68
