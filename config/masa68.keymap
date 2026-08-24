@@ -42,46 +42,46 @@
 
         function_layer {
             bindings = <
-&lt 1 ESCAPE      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  
-&kp TAB           &kp Q         &kp W         &kp E         &kp R         &kp T         &kp Y         
-&kp LEFT_CONTROL  &kp A         &kp S         &kp D         &kp F         &kp G         &kp H         
-&kp LEFT_SHIFT    &kp Z         &kp X         &kp C         &kp V         &kp B         &kp N         
-&kp LEFT_CONTROL  &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 LANG2   &kp SPACE     &none         &lt 1 LANG1   
-&lt 1 ESCAPE      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  
-&kp TAB           &kp Q         &kp W         &kp E         &kp R         &kp T         &kp Y         
-&kp LEFT_CONTROL  &kp A         &kp S         &kp D         &kp F         &kp G         &kp H         
-&kp LEFT_SHIFT    &kp Z         &kp X         &kp C         &kp V         &kp B         &kp N         
-&kp LEFT_CONTROL  &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 LANG2   &kp SPACE     &none         &lt 1 LANG1  
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
         layer_2 {
             bindings = <
-&lt 1 ESCAPE      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  
-&kp TAB           &kp Q         &kp W         &kp E         &kp R         &kp T         &kp Y         
-&kp LEFT_CONTROL  &kp A         &kp S         &kp D         &kp F         &kp G         &kp H         
-&kp LEFT_SHIFT    &kp Z         &kp X         &kp C         &kp V         &kp B         &kp N         
-&kp LEFT_CONTROL  &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 LANG2   &kp SPACE     &none         &lt 1 LANG1   
-&lt 1 ESCAPE      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  
-&kp TAB           &kp Q         &kp W         &kp E         &kp R         &kp T         &kp Y         
-&kp LEFT_CONTROL  &kp A         &kp S         &kp D         &kp F         &kp G         &kp H         
-&kp LEFT_SHIFT    &kp Z         &kp X         &kp C         &kp V         &kp B         &kp N         
-&kp LEFT_CONTROL  &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 LANG2   &kp SPACE     &none         &lt 1 LANG1  
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  
             >;
         };
 
         layer_3 {
             bindings = <
-&lt 1 ESCAPE      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  
-&kp TAB           &kp Q         &kp W         &kp E         &kp R         &kp T         &kp Y         
-&kp LEFT_CONTROL  &kp A         &kp S         &kp D         &kp F         &kp G         &kp H         
-&kp LEFT_SHIFT    &kp Z         &kp X         &kp C         &kp V         &kp B         &kp N         
-&kp LEFT_CONTROL  &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 LANG2   &kp SPACE     &none         &lt 1 LANG1   
-&lt 1 ESCAPE      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  
-&kp TAB           &kp Q         &kp W         &kp E         &kp R         &kp T         &kp Y         
-&kp LEFT_CONTROL  &kp A         &kp S         &kp D         &kp F         &kp G         &kp H         
-&kp LEFT_SHIFT    &kp Z         &kp X         &kp C         &kp V         &kp B         &kp N         
-&kp LEFT_CONTROL  &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 LANG2   &kp SPACE     &none         &lt 1 LANG1  
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans 
             >;
         };
     };
