@@ -1,0 +1,85 @@
+{
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        { "row": 0, "col": 0, "x":     0, "y": 0, "label":      "¬\n`" },
+        { "row": 0, "col": 1, "x":     1, "y": 0, "label":      "!\n1" },
+        { "row": 0, "col": 2, "x":     2, "y": 0, "label":     "\"\n2" },
+        { "row": 0, "col": 3, "x":     3, "y": 0, "label":      "£\n3" },
+        { "row": 0, "col": 4, "x":     4, "y": 0, "label":      "$\n4" },
+        { "row": 0, "col": 5, "x":     5, "y": 0, "label":      "%\n5" },
+        { "row": 0, "col": 6, "x":     6, "y": 0, "label":      "^\n6" },
+      
+        { "row": 1, "col": 0, "x":     0, "y": 1, "label":       "Tab", "u":  1.5 },
+        { "row": 1, "col": 1, "x":   1.5, "y": 1, "label":         "Q" },
+        { "row": 1, "col": 2, "x":   2.5, "y": 1, "label":         "W" },
+        { "row": 1, "col": 3, "x":   3.5, "y": 1, "label":         "E" },
+        { "row": 1, "col": 4, "x":   4.5, "y": 1, "label":         "R" },
+        { "row": 1, "col": 5, "x":   5.5, "y": 1, "label":         "T" },
+        { "row": 1, "col": 6, "x":   6.5, "y": 1, "label":         "Y" },
+      
+        { "row": 2, "col": 0, "x":     0, "y": 2, "label": "Caps Lock", "u": 1.75 },
+        { "row": 2, "col": 1, "x":  1.75, "y": 2, "label":         "A" },
+        { "row": 2, "col": 2, "x":  2.75, "y": 2, "label":         "S" },
+        { "row": 2, "col": 3, "x":  3.75, "y": 2, "label":         "D" },
+        { "row": 2, "col": 4, "x":  4.75, "y": 2, "label":         "F" },
+        { "row": 2, "col": 5, "x":  5.75, "y": 2, "label":         "G" },
+        { "row": 2, "col": 6, "x":  6.75, "y": 2, "label":         "H" },
+      
+        { "row": 3, "col": 0, "x":     0, "y": 3, "label":     "Shift", "u":    2 },
+        { "row": 3, "col": 1, "x":     2, "y": 3, "label":         "Z" },
+        { "row": 3, "col": 2, "x":     3, "y": 3, "label":         "X" },
+        { "row": 3, "col": 3, "x":     4, "y": 3, "label":         "C" },
+        { "row": 3, "col": 4, "x":     5, "y": 3, "label":         "V" },
+        { "row": 3, "col": 5, "x":     6, "y": 3, "label":         "B" },
+        { "row": 3, "col": 6, "x":     7, "y": 3, "label":         "N" },
+      
+        { "row": 4, "col": 0, "x":     0, "y": 4, "label":      "Ctrl", "u": 1.25 },
+        { "row": 4, "col": 1, "x":  1.25, "y": 4, "label":       "Win" },
+        { "row": 4, "col": 2, "x":  2.25, "y": 4, "label":       "Win" },
+        { "row": 4, "col": 3, "x":  3.25, "y": 4, "label":       "Alt", "u": 1.25 },
+        { "row": 4, "col": 4, "x":   4.5, "y": 4 },
+        { "row": 4, "col": 5, "x":   5.5, "y": 4,                       "u":    3 },
+      
+        { "row": 5, "col": 0, "x":     7, "y": 0, "label":      "&\n7" },
+        { "row": 5, "col": 1, "x":     8, "y": 0, "label":      "*\n8" },
+        { "row": 5, "col": 2, "x":     9, "y": 0, "label":      "(\n9" },
+        { "row": 5, "col": 3, "x":    10, "y": 0, "label":      ")\n0" },
+        { "row": 5, "col": 4, "x":    11, "y": 0, "label":      "_\n-" },
+        { "row": 5, "col": 5, "x":    12, "y": 0, "label":      "+\n=" },
+        { "row": 5, "col": 6, "x":    13, "y": 0, "label": "Backspace" },
+      
+        { "row": 6, "col": 0, "x":   7.5, "y": 1, "label":         "U" },
+        { "row": 6, "col": 1, "x":   8.5, "y": 1, "label":         "I" },
+        { "row": 6, "col": 2, "x":   9.5, "y": 1, "label":         "O" },
+        { "row": 6, "col": 3, "x":  10.5, "y": 1, "label":         "P" },
+        { "row": 6, "col": 4, "x":  11.5, "y": 1, "label":      "{\n[" },
+        { "row": 6, "col": 5, "x":  12.5, "y": 1, "label":      "}\n]" },
+        { "row": 6, "col": 6, "x":    14, "y": 0 },
+      
+        { "row": 7, "col": 0, "x":  7.75, "y": 2, "label":         "J" },
+        { "row": 7, "col": 1, "x":  8.75, "y": 2, "label":         "K" },
+        { "row": 7, "col": 2, "x":  9.75, "y": 2, "label":         "L" },
+        { "row": 7, "col": 3, "x": 10.75, "y": 2, "label":      ":\n;" },
+        { "row": 7, "col": 4, "x": 11.75, "y": 2, "label":      "@\n'" },
+        { "row": 7, "col": 5, "x": 12.75, "y": 2, "label":      "~\n#" },
+        { "row": 7, "col": 6, "x": 13.75, "y": 1, "label":     "Enter", "u": 1.25, "h": 2 },
+      
+        { "row": 8, "col": 0, "x":     8, "y": 3, "label":         "M" },
+        { "row": 8, "col": 1, "x":     9, "y": 3, "label":      "<\n," },
+        { "row": 8, "col": 2, "x":    10, "y": 3, "label":      ">\n." },
+        { "row": 8, "col": 3, "x":    11, "y": 3, "label":      "?\n/" },
+        { "row": 8, "col": 4, "x":    12, "y": 3 },
+        { "row": 8, "col": 5, "x":    13, "y": 3 },
+        { "row": 8, "col": 6, "x":    14, "y": 3 },
+      
+        { "row": 9, "col": 0, "x":   8.5, "y": 4 },
+        { "row": 9, "col": 2, "x":   9.5, "y": 4, "label":     "AltGr", "u": 1.25 },
+        { "row": 9, "col": 3, "x": 10.75, "y": 4, "label":       "Win", "u": 1.25 },
+        { "row": 9, "col": 4, "x":    12, "y": 4 },
+        { "row": 9, "col": 5, "x":    13, "y": 4 },
+        { "row": 9, "col": 6, "x":    14, "y": 4 }
+      ]
+    }
+  }
+}
